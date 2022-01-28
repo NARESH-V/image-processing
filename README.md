@@ -5,12 +5,12 @@
 ### To classify human-eye images by disesase/normal using `Convolutional Neural Network`
 
 
-## Dataset
+## Data Dictionary
 
 
 |Category|Description|
 |---|---|
-|Cataract|Human eye with cataract|
+|Cataract|Human eye with Cataract|
 |Glaucoma|Human eye with Glaucoma|
 |Retinopathy|Human eye with Retinopathy|
 |Normal|Normal Human eye|
